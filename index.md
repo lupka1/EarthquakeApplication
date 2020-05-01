@@ -11,6 +11,7 @@ The application presents places, where the earthquake take place lately. User ca
 - last hour
 - last week
 - past months
+
 Once one of the option is selected, the information about earthquale is displayed on the screen. All places are marked on the map. Below, there is list with locations and additionaly value of magnitude.
 
 [TODO: Add screen with buttons]
