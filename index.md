@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Earthquake app
 
-You can use the [editor on GitHub](https://github.com/lupka1/webPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The application has been created by IT students, because of two reasons. First of all we _wanted_ to get familiar with one of the most popular JavaScript framework - Vue.js and we want to avoid earthquake as much as possible.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Using Github Pages we'd like to briefly present the Earthquake app and encourage to use it and develope with us.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How does it work?
 
-```markdown
-Syntax highlighted code block
+The application presents places, where the earthquake take place lately. User can select if it's in:
+- last hour
+- last week
+- past months
+Once one of the option is selected, the information about earthquale is displayed on the screen. All places are marked on the map. Below, there is list with locations and additionaly value of magnitude.
 
-# Header 1
-## Header 2
-### Header 3
+[TODO: Add screen with buttons]
 
-- Bulleted
-- List
+[TODO: Add screen with search result]
 
-1. Numbered
-2. List
+### Links to parts of the project
 
-**Bold** and _Italic_ and `Code` text
+1. [Github Repository](https://help.github.com/categories/github-pages-basics/)
+2. [Milestones](https://help.github.com/categories/github-pages-basics/)
+3. ??
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lupka1/webPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
