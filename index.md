@@ -12,15 +12,29 @@ The application presents places, where the earthquake take place lately. User ca
 - last week
 - past months
 
-Once one of the option is selected, the information about earthquale is displayed on the screen. All places are marked on the map. Below, there is list with locations and additionaly value of magnitude.
+Once one of the option is selected, the information about earthquake is displayed on the screen. All places are marked on the map. Below, there is list with locations and additionaly value of magnitude.
+
+### Basic use case
+
+The main goal of this project is to give a clear picture, where earthquake(s) took place in the defined period of time. Having this information user can see, which places can be currently dangerous.
+
+When user opens the [application](https://stiepek.github.io/EarthquakeApp/) main page is displayed.
 
 [TODO: Add screen with buttons]
+
+There are 3 buttons, by clicking one of them, user will select from which period of time earthquakes will be displayed.
+Let's use 'Significiant earthquakes(last 7 days)'. Now on the top of the page the map with points is displayed. Each point represents one earthquake. Below there is a list of all earthquakes: where it was and value of magnitude. If someone is not familiar with magnitude, clicking 'Legend' button will display more information.
 
 [TODO: Add screen with search result]
 
 ### Links to parts of the project
 
-1. [Github Repository](https://help.github.com/categories/github-pages-basics/)
-2. [Milestones](https://help.github.com/categories/github-pages-basics/)
-3. ??
+1. [App Github Repository](https://github.com/Stiepek/EarthquakeApp)
+2. [GithubPages Repository](https://github.com/lupka1/EarthquakeApplication)
+3. [Project's milestones](https://github.com/Stiepek/EarthquakeApp/milestones)
+4. [Project management](https://github.com/Stiepek/EarthquakeApp/issues) 
 
+### Project team 
+1. Barbara Partyka (manager)
+2. Piotr Szczepański
+3. Gabriela Łupak
