@@ -21,6 +21,7 @@ The main goal of this project is to give a clear picture, where earthquake(s) to
 When user opens the [application](https://stiepek.github.io/EarthquakeApp/) main page is displayed.
 
 [TODO: Add screen with buttons]
+![](/7days.png)
 
 There are 3 buttons, by clicking one of them, user will select from which period of time earthquakes will be displayed.
 Let's use 'Significiant earthquakes(last 7 days)'. Now on the top of the page the map with points is displayed. Each point represents one earthquake. Below there is a list of all earthquakes: where it was and value of magnitude. If someone is not familiar with magnitude, clicking 'Legend' button will display more information.
