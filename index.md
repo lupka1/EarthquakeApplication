@@ -23,13 +23,17 @@ When user opens the [application](https://stiepek.github.io/EarthquakeApp/) main
 ![](/MainPage.png)
 
 There are 3 buttons, by clicking one of them, user will select from which period of time earthquakes will be displayed.
-Let's use 'Significiant earthquakes(last 7 days)'. Now on the top of the page the map with points is displayed. Each point represents one earthquake. Below there is a list of all earthquakes: where it was and value of magnitude.
+Let's use 'Significiant earthquakes(last 7 days)'. Now on the top of the page the map with points is displayed. Each point represents one earthquake. The size of markers reflect the value of magnitude. Below there is a list of all earthquakes: where it was and value of magnitude.
 
-![](/7days.png)
+
+User can click on the point, that is displayed on map. After that the color will be changed to blue and information of the particular earthquake will be emphasized.
+
 
 If someone is not familiar with magnitude, clicking 'Legend' button will display more information.
 
 ![](/legend.png)
+
+By clicking the 'Refresh' button user returns to the main page.
 
 
 ### Links to parts of the project
