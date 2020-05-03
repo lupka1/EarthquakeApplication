@@ -34,10 +34,12 @@ If someone is not familiar with magnitude, clicking 'Legend' button will display
 
 ### Links to parts of the project
 
-1. [App Github Repository](https://github.com/Stiepek/EarthquakeApp)
+1. [Application](https://stiepek.github.io/EarthquakeApp)
+2. [Application (Wizard Url)](http://v-ie.uek.krakow.pl/home/studenci/r15/s203911/public_html/EarthquakeAPP)
+3. [Application Repository](https://github.com/Stiepek/EarthquakeApp)
 2. [GithubPages Repository](https://github.com/lupka1/EarthquakeApplication)
 3. [Project's milestones](https://github.com/Stiepek/EarthquakeApp/milestones)
-4. [Project management](https://github.com/Stiepek/EarthquakeApp/issues) 
+4. [Project management (Kanban)](https://github.com/Stiepek/EarthquakeApp/projects/1) 
 
 ### Project team 
 1. Barbara Partyka (manager)
